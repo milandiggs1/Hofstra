@@ -27,7 +27,7 @@ pages) with Google.
 I've created a Discord server for our course. If
 you go to the link above, you can create log in
 information (ID and Password) for Discord. Follow
-this link to access our server: 
+this link to access our server: https://discord.gg/j9zmJTq
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">
 <img alt="Creative Commons License" style="border-width:0"
